@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  christmas-community:
+  - apiVersion: v2
+    appVersion: 1.30.0
+    created: "2022-10-16T19:03:29.919295-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 552cdfdd4e8348edd05e3759956051d48f3028ce659d4de743154fa81bf39b64
+    name: christmas-community
+    type: application
+    urls:
+    - https://github.com/ndlanier/christmas-community-chart-release/christmas-community-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-10-16T19:03:29.918641-05:00"
